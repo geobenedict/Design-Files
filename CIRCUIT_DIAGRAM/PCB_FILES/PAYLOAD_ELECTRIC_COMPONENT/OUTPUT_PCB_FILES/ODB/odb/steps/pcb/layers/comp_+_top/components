@@ -1,0 +1,1683 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 27 17.00000156 10.24999982 0 N U4 MPU-6050 ;0=1,1=0.9500
+PRP Category 'Sensors,Transducers'
+PRP Datasheet_URL 'http://datasheet.octopart.com/MPU-6050-InvenSense-datasheet-14421344.pdf'
+PRP Datasheet_Version 'Rev. 3.3, 05/2012'
+PRP Dynamic_Catalog 'MPU-6000™Series'
+PRP Family 'Multifunction'
+PRP Featured_Product 'MPU-60506-Axis,IntegratedI²CSolution'
+PRP Manufacturer 'InvenSense'
+PRP Manufacturer_URL 'http://www.invensense.com/'
+PRP Online_Catalog 'MPU-6000™Series'
+PRP Other_Names '1428-1007-2MPU6050'
+PRP Output_Type 'Digital'
+PRP Sensor_Type 'MotionTracking'
+PRP Standard_Package '5,000'
+PRP Unit_PriceUSD 'Digital'
+TOP 0 15.00000048 11.49999986 0 N 0 87 1
+TOP 1 15.00000048 11.00000086 0 N 0 86 2
+TOP 2 15.00000048 10.49999932 0 N 0 85 3
+TOP 3 15.00000048 10.00000032 0 N 0 84 4
+TOP 4 15.00000048 9.49999878 0 N 0 83 5
+TOP 5 15.00000048 8.99999978 0 N 0 82 6
+TOP 6 15.75000152 8.27499996 270 N 0 81 7
+TOP 7 16.25000052 8.27499996 270 N 0 80 8
+TOP 8 16.75000206 8.27499996 270 N 0 79 9
+TOP 9 17.25000106 8.27499996 270 N 0 78 10
+TOP 10 17.7500026 8.27499996 270 N 0 77 11
+TOP 11 18.2500016 8.27499996 270 N 0 76 12
+TOP 12 19.00000264 8.99999978 180 N 43 20 13
+TOP 13 19.00000264 9.49999878 180 N 0 68 14
+TOP 14 19.00000264 10.00000032 180 N 0 69 15
+TOP 15 19.00000264 10.49999932 180 N 0 70 16
+TOP 16 19.00000264 11.00000086 180 N 0 71 17
+TOP 17 19.00000264 11.49999986 180 N 37 68 18
+TOP 18 18.2500016 12.22499968 90 N 0 72 19
+TOP 19 17.7500026 12.22499968 90 N 0 73 20
+TOP 20 17.25000106 12.22499968 90 N 0 74 21
+TOP 21 16.75000206 12.22499968 90 N 0 75 22
+TOP 22 16.25000052 12.22499968 90 N 2 1 23
+TOP 23 15.75000152 12.22499968 90 N 1 1 24
+TOP 24 17.00000156 10.24999982 0 N 0 67 25
+#
+# CMP 1
+CMP 3 21.50000018 10.49999932 270 N C_A1 0.1uF ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Capacitance '0.10 µF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 16V X7R 0402'
+PRP Height '0.55mm'
+PRP Ipc_Land_Pattern_Name 'CAPC10050X50'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Part_Number 'C0402C104K4RACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Cap Ceramic 0.1uF 16V X7R 10% SMD 0402 125?C Paper T/R - Tape and Reel (Alt: C0402C104K4RAC TU)'
+PRP Octopart 'https://octopart.com/c0402c104k4ractu-kemet-94158'
+PRP Package 'C0402-BB'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +125°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '15%'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '0.10 µF'
+PRP Voltage_Rating '16 V'
+TOP 0 21.50000018 10.10000012 270 N 43 19 1
+TOP 1 21.50000018 10.89999852 270 N 37 65 2
+#
+# CMP 2
+CMP 33 21.50000272 75.14999956 180 N J2 105017-0001 ;0=1,1=2.6730
+PRP 3D_Model '105017-0001.stp'
+PRP Catalog_Drawings '1050170001'
+PRP Category 'Connectors,Interconnects'
+PRP Circuits '5'
+PRP Connector_Type 'USB-microB'
+PRP Datasheet_URL 'http://www.molex.com/elqNow/elqRedir.htm?ref=http://www.molex.com/webdocs/datasheets/pdf/en-us/1050170001_IO_CONNECTORS.pdf'
+PRP Datasheet_Version '03/2016'
+PRP Family 'USB,DVI,HDMIConnectors'
+PRP Featured_Product 'Micro-USBConnectorsUSBConnectors'
+PRP Features 'Shielded,SolderRetention'
+PRP Gender 'Receptacle'
+PRP Ingress_Protection '-'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_URL 'http://www.molex.com/'
+PRP Mating_Products 'WM17145-ND-CABLEMICROUSBBTOSTDA1.0MWM17147-ND-CABLEMICROUSBBTOSTDA2.0MWM17146-ND-CABLEMICROUSBBTOSTDA1.5M'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Mounting_Type 'BoardCutout,SurfaceMount,RightAngle'
+PRP Number_of_Contacts '5'
+PRP Online_Catalog 'Molex-MicroUSB'
+PRP Other_Names 'WM1399DKR'
+PRP Package_Description '5-Leads USB, Micro B, Body 7.5 x 5 mm, Pitch 0.65 mm'
+PRP Package_Reference 'MICRO-B'
+PRP Package_URL 'http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf'
+PRP Package_Version 'Rev. F, 12/2012'
+PRP Packaging 'Digi-Reel®'
+PRP PCN_Assembly/Origin 'ResinSupplier21/Oct/2015'
+PRP RoHS_Information '1050170001CertofCompliance'
+PRP Series '-'
+PRP Specifications '-'
+PRP Standard_Package '1'
+PRP Voltage_-_Max '30V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5),(6:6),(7:7),(8:8),(9:9),(10:10),(11:11)'
+TOP 0 22.8000052 73.8000048 0 N 41 2 1
+TOP 1 22.1500192 73.8000048 0 N 3 3 2
+TOP 2 21.4999824 73.8000048 0 N 4 3 3
+TOP 3 20.8499964 73.8000048 0 N 0 101 4
+TOP 4 20.2000104 73.8000048 0 N 37 31 5
+TOP 5 24.0000028 73.8000048 0 N 37 9 6
+TOP 6 19.0000128 73.8000048 0 N 37 8 7
+TOP 7 25.0000008 76.5000248 90 N 37 11 8
+TOP 8 22.4999804 76.5000248 0 N 37 32 9
+TOP 9 20.4999844 76.5000248 0 N 37 33 10
+TOP 10 18.0000148 76.5000248 90 N 37 10 11
+#
+# CMP 3
+CMP 15 10.49999932 60.99999992 90 N U5 TLV62569DBVR ;0=1,1=0.0000
+PRP Case/Package 'SOT-23-5'
+PRP Max_Input_Voltage '5.5V'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Output_Voltage '5.5V'
+PRP Min_Input_Voltage '2.5V'
+PRP Min_Operating_Temperature '-40°C'
+PRP Min_Output_Voltage '600mV'
+PRP Mount 'Surface Mount'
+PRP Output_Configuration 'Positive'
+PRP Output_Current '2A'
+PRP Output_Type 'Adjustable'
+PRP Packaging 'Cut Tape'
+PRP RoHS_Compliant 'Yes'
+PRP Switching_Frequency '1.5MHz'
+PRP Synchronous_Rectifier 'Yes'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5)'
+TOP 0 11.4500152 62.3000024 90 N 42 1 1
+TOP 1 10.5000044 62.3000024 90 N 37 23 2
+TOP 2 9.5499936 62.3000024 90 N 22 0 3
+TOP 3 9.5499936 59.6999568 90 N 42 0 4
+TOP 4 11.4500152 59.6999568 90 N 18 0 5
+#
+# CMP 4
+CMP 26 67.00000062 76.0000004 0 N UFL1 U.FL-R-SMT-1(01) ;0=1,1=1.2500
+PRP Body_Finish 'Silver'
+PRP Body_Material 'PhosphorBronze'
+PRP Category 'Connectors,Interconnects'
+PRP Center_Contact_Material 'PhosphorBronze'
+PRP Center_Contact_Plating 'Gold'
+PRP Connector_Style 'U.FL'
+PRP Connector_Type 'Jack,MalePin'
+PRP Contact_Termination 'Solder'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/26945/getdatasheetpartid-475239-26945414.pdf'
+PRP Datasheet_Version 'Feb-09'
+PRP Dielectric_Material 'LiquidCrystalPolymer(LCP)'
+PRP Dynamic_Catalog 'U.FLSeries'
+PRP Family 'CoaxialConnectors(RF)'
+PRP Fastening_Type 'Snap-On'
+PRP Featured_Product 'HiroseU.FLSeries'
+PRP Frequency_-_Max '6GHz'
+PRP Housing_Color 'Silver'
+PRP Impedance '50Ohm'
+PRP Manufacturer 'Hirose Electric'
+PRP Manufacturer_URL 'https://www.hirose.com'
+PRP Minimum_Quantity 'UltraMiniatureCoaxial'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'U.FLSeries'
+PRP Operating_Temperature '-40degC~90degC'
+PRP Other_Names 'H122041U.FL-R-SMT-1(01)-ND'
+PRP Package_Description '3-Pin Surface Mount Device, Body 2.6 x 2.6 mm'
+PRP Package_Reference 'U.FL-R-SMT'
+PRP Packaging 'Bulk'
+PRP Quantity_Available 'Bulk'
+PRP Series 'U.FL'
+PRP Shield_Termination 'Solder'
+PRP Standard_Package '100'
+PRP Unit_PriceUSD 'U.FL'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3)'
+TOP 0 65.5249896 76.0000004 180 N 23 2 1
+TOP 1 68.4749964 76.0000004 180 N 37 48 2
+TOP 2 67.0000184 74.4749844 180 N 37 49 3
+#
+# CMP 5
+CMP 26 72.99999878 76.0000004 0 N UFL2 U.FL_GPS ;0=1,1=1.2500
+PRP Body_Finish 'Silver'
+PRP Body_Material 'PhosphorBronze'
+PRP Category 'Connectors,Interconnects'
+PRP Center_Contact_Material 'PhosphorBronze'
+PRP Center_Contact_Plating 'Gold'
+PRP Connector_Style 'U.FL'
+PRP Connector_Type 'Jack,MalePin'
+PRP Contact_Termination 'Solder'
+PRP Datasheet_URL 'https://datasheet.ciiva.com/26945/getdatasheetpartid-475239-26945414.pdf'
+PRP Datasheet_Version 'Feb-09'
+PRP Dielectric_Material 'LiquidCrystalPolymer(LCP)'
+PRP Dynamic_Catalog 'U.FLSeries'
+PRP Family 'CoaxialConnectors(RF)'
+PRP Fastening_Type 'Snap-On'
+PRP Featured_Product 'HiroseU.FLSeries'
+PRP Frequency_-_Max '6GHz'
+PRP Housing_Color 'Silver'
+PRP Impedance '50Ohm'
+PRP Manufacturer 'Hirose Electric'
+PRP Manufacturer_URL 'https://www.hirose.com'
+PRP Minimum_Quantity 'UltraMiniatureCoaxial'
+PRP Mounting_Type 'SurfaceMount'
+PRP Online_Catalog 'U.FLSeries'
+PRP Operating_Temperature '-40degC~90degC'
+PRP Other_Names 'H122041U.FL-R-SMT-1(01)-ND'
+PRP Package_Description '3-Pin Surface Mount Device, Body 2.6 x 2.6 mm'
+PRP Package_Reference 'U.FL-R-SMT'
+PRP Packaging 'Bulk'
+PRP Quantity_Available 'Bulk'
+PRP Series 'U.FL'
+PRP Shield_Termination 'Solder'
+PRP Standard_Package '100'
+PRP Unit_PriceUSD 'U.FL'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3)'
+TOP 0 71.5249776 76.0000004 180 N 21 0 1
+TOP 1 74.4749844 76.0000004 180 N 37 46 2
+TOP 2 73.0000064 74.4749844 180 N 37 47 3
+#
+# CMP 6
+CMP 10 10.00002064 21.49997986 180 N U6 CP2102N-A01-GQFN28 ;0=1,1=0.0000
+PRP Ambient_Temperature_Range_High '+85°C'
+PRP Ambient_Temperature_Range_Low '-40°C'
+PRP Automotive 'No'
+PRP Category 'IC'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://media.digikey.com/pdf/Data%20Sheets/Silicon%20Laboratories%20PDFs/CP2102N_Rev.1.3_DS.pdf'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Interface ICs'
+PRP Device_Class_L3 'USB Interface ICs'
+PRP Digikey_Description 'IC BRIDGE USB TO UART 28QFN'
+PRP Height '0.8mm'
+PRP Interface 'UART,USB,RS-232,RS-485'
+PRP Ipc_Land_Pattern_Name 'QFN50P500X500X75-28'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Silicon Labs'
+PRP Manufacturer_Part_Number 'CP2102N-A01-GQFN28'
+PRP Max_Junction_Temp '+105°C'
+PRP Max_Supply_Voltage '5.25V'
+PRP Min_Supply_Voltage '1.71V'
+PRP Mouser_Description 'IC BRIDGE USB TO UART 28QFN'
+PRP Nominal_Supply_Current '195-13700uA'
+PRP Number_Of_Ports '1'
+PRP Octopart 'https://octopart.com/cp2102n-a01-gqfn28-silicon+labs-74636024'
+PRP Package 'CP2102N-A01-GQFN28'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0mm'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Usb_Standard 'USB 2.0'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5),(6:6),(7:7),(8:8),(9:9),(10:10),(11:11),(12:12),(13:13),(14:14),(15:15),(16:16),(17:17),(18:18),(19:19),(20:20),(21:21),(22:22),(23:23),(24:24),(25:25),(26:26),(27:27),(28:28),(29:29)'
+TOP 0 12.3999752 19.99996 180 N 0 46 1
+TOP 1 12.3999752 20.4999844 180 N 0 45 2
+TOP 2 12.3999752 20.999958 180 N 37 21 3
+TOP 3 12.7249936 21.4999824 180 N 3 2 4
+TOP 4 12.3999752 21.999956 180 N 4 1 5
+TOP 5 12.3999752 22.4999804 180 N 43 6 6
+TOP 6 12.3999752 22.999954 180 N 43 7 7
+TOP 7 11.5000024 23.8999776 270 N 16 2 8
+TOP 8 10.999978 23.8999776 270 N 14 1 9
+TOP 9 10.5000044 23.9155224 270 N 0 44 10
+TOP 10 9.99998 23.9155224 270 N 13 2 11
+TOP 11 9.5000064 23.8999776 270 N 0 43 12
+TOP 12 8.999982 23.8999776 270 N 0 42 13
+TOP 13 8.4999576 23.8999776 270 N 0 41 14
+TOP 14 7.5999848 22.999954 180 N 0 40 15
+TOP 15 7.5999848 22.4999804 180 N 0 39 16
+TOP 16 7.5999848 21.999956 180 N 0 38 17
+TOP 17 7.3250044 21.4999824 180 N 0 37 18
+TOP 18 7.5999848 20.999958 180 N 0 36 19
+TOP 19 7.5999848 20.4999844 180 N 0 35 20
+TOP 20 7.5999848 19.99996 180 N 0 34 21
+TOP 21 8.4999576 19.0999872 270 N 0 33 22
+TOP 22 8.999982 19.0999872 270 N 0 32 23
+TOP 23 9.5000064 19.0844424 270 N 12 3 24
+TOP 24 9.99998 19.0844424 270 N 10 1 25
+TOP 25 10.5000044 19.0999872 270 N 5 1 26
+TOP 26 10.999978 19.0999872 270 N 0 31 27
+TOP 27 11.5000024 19.0999872 270 N 39 3 28
+TOP 28 9.99998 21.4999824 180 N 37 22 29
+#
+# CMP 7
+CMP 2 45.50000044 11.49999986 0 N SW2 B3F-6022 ;0=2,1=0.0000
+PRP Actuator_Type 'Standard'
+PRP Case/Package 'Radial'
+PRP Contact_Plating 'Gold'
+PRP Illumination_Type 'Non-Illuminated'
+PRP Max_Operating_Temperature '70°C'
+PRP Max_Voltage_Rating_(DC) '24V'
+PRP Mechanical_Life '300000Cycles'
+PRP Min_Operating_Temperature '-25°C'
+PRP Mount 'Through Hole'
+PRP Operating_Force '1.47N'
+PRP Package_Quantity '1000'
+PRP Packaging 'Ammo Pack'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.25mm'
+PRP Termination 'PC Pins'
+PRP Throw_Configuration 'SPST'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 43.0000156 11.3999772 0 N 37 5 1
+TOP 1 48.0000056 11.3999772 0 N 38 0 2
+#
+# CMP 8
+CMP 2 36.50000066 11.49999986 0 N SW1 B3F-6022 ;0=2,1=0.0000
+PRP Actuator_Type 'Standard'
+PRP Case/Package 'Radial'
+PRP Contact_Plating 'Gold'
+PRP Illumination_Type 'Non-Illuminated'
+PRP Max_Operating_Temperature '70°C'
+PRP Max_Voltage_Rating_(DC) '24V'
+PRP Mechanical_Life '300000Cycles'
+PRP Min_Operating_Temperature '-25°C'
+PRP Mount 'Through Hole'
+PRP Operating_Force '1.47N'
+PRP Package_Quantity '1000'
+PRP Packaging 'Ammo Pack'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.25mm'
+PRP Termination 'PC Pins'
+PRP Throw_Configuration 'SPST'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 33.9999828 11.3999772 0 N 37 12 1
+TOP 1 38.9999728 11.3999772 0 N 34 0 2
+#
+# CMP 9
+CMP 12 12.5000004 56.49999876 270 N R_V1 453kOhm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Construction 'Rectangular'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.5mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.016inch'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '63mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '10'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '63mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '453kR'
+PRP Resistance_Tolerance '1%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'CRCW'
+PRP Size_Code '0402'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '50V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Weight '2.3E-05oz'
+PRP Width '0.5mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 12.5000512 55.9750468 270 N 43 12 1
+TOP 1 12.5000512 57.025032 270 N 18 1 2
+#
+# CMP 10
+CMP 14 29.0000055 17.64914174 270 N R_SW2 10kOhm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '10kR'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 28.9999928 16.79829 270 N 43 14 1
+TOP 1 28.9999928 18.4999884 270 N 38 3 2
+#
+# CMP 11
+CMP 31 25.00002874 35.72500094 90 N R_SH2 10kOhm ;0=1,1=0.7000
+PRP Manufacturer 'Panasonic'
+PRP Part_Number 'ERJ-6GEYJ103V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 25.0000008 36.50000066 0 N 12 1 1
+TOP 1 25.0000008 34.94999106 0 N 19 0 2
+#
+# CMP 12
+CMP 31 21.50001796 35.72501618 270 N R_SH1 10kOhm ;0=1,1=0.7000
+PRP Manufacturer 'Panasonic'
+PRP Part_Number 'ERJ-6GEYJ103V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 21.50000018 34.94999106 180 N 39 2 1
+TOP 1 21.50000018 36.50000066 180 N 20 0 2
+#
+# CMP 13
+CMP 30 6.99996314 12.9999486 270 N R_S8 0Ohm ;0=1,1=0.6000
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'ThickFilm'
+PRP Contact_Plating 'Tin'
+PRP Datasheet_URL 'http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf'
+PRP Datasheet_Version 'Rev. 5, 10/2016'
+PRP Depth '1.25mm'
+PRP Height '0.5mm'
+PRP Lead_Free 'LeadFree'
+PRP Length '2mm'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_URL 'http://www.yageo.com/'
+PRP Max_Operating_Temperature '155degC'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55degC'
+PRP Number_of_Pins '2'
+PRP Package_Description '2-Pin Surface Mounted Device, Body 2 x 1.25 mm'
+PRP Package_Reference '0805'
+PRP Packaging 'TapeandReel'
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '0mOhm'
+PRP RoHSCompliant 'true'
+PRP Temperature_Coefficient '200ppm/degreesC'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Width '1.25mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 7.00000124 12.00000394 180 N 6 0 1
+TOP 1 7.00000124 13.99999994 180 N 10 2 2
+#
+# CMP 14
+CMP 30 10.49996122 12.9999867 270 N R_S7 0Ohm ;0=1,1=0.6000
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'ThickFilm'
+PRP Contact_Plating 'Tin'
+PRP Datasheet_URL 'http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf'
+PRP Datasheet_Version 'Rev. 5, 10/2016'
+PRP Depth '1.25mm'
+PRP Height '0.5mm'
+PRP Lead_Free 'LeadFree'
+PRP Length '2mm'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_URL 'http://www.yageo.com/'
+PRP Max_Operating_Temperature '155degC'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55degC'
+PRP Number_of_Pins '2'
+PRP Package_Description '2-Pin Surface Mounted Device, Body 2 x 1.25 mm'
+PRP Package_Reference '0805'
+PRP Packaging 'TapeandReel'
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'Unknown'
+PRP Resistance '0mOhm'
+PRP RoHSCompliant 'true'
+PRP Temperature_Coefficient '200ppm/degreesC'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Width '1.25mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 10.49999932 12.00000394 180 N 11 0 1
+TOP 1 10.49999932 13.99999994 180 N 5 2 2
+#
+# CMP 15
+CMP 14 3.99999962 30.99999896 90 N R_S6 10kOhm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '1.25mm'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '5000'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '125mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '10kR'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '150V'
+PRP Voltage_Rating_(DC) '150V'
+PRP Weight '0.000194oz'
+PRP Width '1.25mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 3.999992 31.850838 90 N 37 18 1
+TOP 1 3.999992 30.1491396 90 N 13 1 2
+#
+# CMP 16
+CMP 18 16.49998224 42.7749589 270 N R_S5 20kOhm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '800µm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '450µm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Lifecycle_Status 'Production'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP NexarPartId '55389241'
+PRP Number_of_Terminations '2'
+PRP Packaging 'Cut Tape'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistance '2kO'
+PRP RoHS 'Compliant'
+PRP Schedule_B '8533210045, 8533210045'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '787.4µm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 16.4999924 42.049954 270 N 14 2 1
+TOP 1 16.4999924 43.4999892 270 N 43 13 2
+#
+# CMP 17
+CMP 13 13.99999994 30.99999896 270 N R_S4 100Ohm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.85mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.02inch'
+PRP Length '1.55mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '100R'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '75V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.85mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 14.0000228 30.2846232 270 N 15 0 1
+TOP 1 14.0000228 31.7154052 270 N 37 16 2
+#
+# CMP 18
+CMP 17 10.49999932 30.99999896 270 N R_S3 47kOhm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Construction 'Rectangular'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.8mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.45mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistance '47kR'
+PRP Resistance_Tolerance '5%'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'ERJ'
+PRP Technology 'THICK FILM'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '75V'
+PRP Voltage_Rating_(DC) '50V'
+PRP Width '0.031inch'
+PRP Working_Voltage '75V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 10.5000044 30.2491648 270 N 16 1 1
+TOP 1 10.5000044 31.7509144 270 N 15 1 2
+#
+# CMP 19
+CMP 13 16.99999902 30.99999896 90 N R_S2 100Ohm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.85mm'
+PRP Features 'Automotive AEC-Q200'
+PRP Height '0.02inch'
+PRP Length '1.55mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Max_Power_Dissipation '100mW'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Number_of_Terminations '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Rating '100mW'
+PRP Radiation_Hardening 'No'
+PRP Resistance '100R'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '5%'
+PRP Voltage_Rating '75V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.85mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 17.0000168 31.7154052 90 N 41 0 1
+TOP 1 17.0000168 30.2846232 90 N 17 0 2
+#
+# CMP 20
+CMP 29 7.00000124 30.99999896 270 N R_S1 22kOhm ;0=1,1=0.5500
+PRP Manufacturer 'Panasonic'
+PRP Part_Number 'ERJ-3GEYJ223V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 6.999986 30.3250092 180 N 17 1 1
+TOP 1 6.999986 31.6750192 180 N 16 3 2
+#
+# CMP 21
+CMP 16 52.99998036 7.70001508 270 N R_G1 10Ohm ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0201'
+PRP Case_Code_(Metric) '0603'
+PRP Case/Package '0201'
+PRP Composition 'Thick Film'
+PRP Contact_Plating 'Tin'
+PRP Height '254µm'
+PRP Lead_Free 'Lead Free'
+PRP Length '600µm'
+PRP Lifecycle_Status 'Production'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Power_Dissipation '50mW'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP NexarPartId '55419705'
+PRP Number_of_Pins '2'
+PRP Number_of_Terminations '2'
+PRP Packaging 'Cut Tape'
+PRP Power_Rating '50mW'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistance '10O'
+PRP RoHS 'Compliant'
+PRP Schedule_B '8533210045, 8533210045'
+PRP Temperature_Coefficient '200ppm/°C'
+PRP Termination 'SMD/SMT'
+PRP Tolerance '1%'
+PRP Voltage_Rating '25V'
+PRP Voltage_Rating_(DC) '25V'
+PRP Weight '170.097139µg'
+PRP Width '304.8µm'
+PRP Working_Voltage '25V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 52.9999956 7.3999852 270 N 25 2 1
+TOP 1 52.9999956 7.999984 270 N 24 0 2
+#
+# CMP 22
+CMP 11 9.49999878 56.49999876 90 N R_2 100kOhm ;0=1,1=0.0000
+PRP Case/Package 'SMD/SMT'
+PRP Contact_Plating 'Tin'
+PRP Lead_Free 'Lead Free'
+PRP Length '1mm'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Power_Rating '62.5mW'
+PRP Resistance '100kR'
+PRP Resistor_Type 'Thick Film'
+PRP RoHS_Compliant 'Yes'
+PRP Temperature_Coefficient '100ppm/°C'
+PRP Termination 'Wraparound'
+PRP Tolerance '1%'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 9.5000064 56.9500004 90 N 18 2 1
+TOP 1 9.5000064 56.0500276 90 N 37 34 2
+#
+# CMP 23
+CMP 24 23.49997078 31.49000814 270 N Q2 SS8050-G ;0=1,1=0.0000
+PRP Case/Package 'TO-236-3'
+PRP Collector_Emitter_Breakdown_Voltage '25V'
+PRP Collector_Emitter_Voltage_(VCEO) '400mV'
+PRP Max_Breakdown_Voltage '25V'
+PRP Max_Collector_Current '1.5A'
+PRP Max_Power_Dissipation '300mW'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Transition_Frequency '100MHz'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3)'
+TOP 0 22.5499676 30.48 270 N 19 1 1
+TOP 1 24.4499384 30.48 270 N 34 1 2
+TOP 2 23.4999784 32.5000112 270 N 39 1 3
+#
+# CMP 24
+CMP 24 22.99999972 40.99999928 180 N Q1 SS8050-G ;0=1,1=0.0000
+PRP Case/Package 'TO-236-3'
+PRP Collector_Emitter_Breakdown_Voltage '25V'
+PRP Collector_Emitter_Voltage_(VCEO) '400mV'
+PRP Max_Breakdown_Voltage '25V'
+PRP Max_Collector_Current '1.5A'
+PRP Max_Power_Dissipation '300mW'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Transition_Frequency '100MHz'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3)'
+TOP 0 24.0100612 40.049958 180 N 20 1 1
+TOP 1 24.0100612 41.9499796 180 N 12 2 2
+TOP 2 21.99005 40.9999688 180 N 38 2 3
+#
+# CMP 25
+CMP 19 39.00000074 39.7400018 0 N U1 ESP32-WROOM-32D ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Bandwidth '72MHz'
+PRP Category 'UNK'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf'
+PRP Data_Rate '150Mbits/s'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'RF Semiconductors and Devices'
+PRP Device_Class_L3 'Transceivers'
+PRP Digikey_Description 'WIFI MODULE 32MBITS SPI FLASH'
+PRP Height '3.2mm'
+PRP Interface 'I2C,SPI,UART,Ethernet,I2S,Other'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Espressif Systems'
+PRP Manufacturer_Part_Number 'ESP32-WROOM-32D'
+PRP Max_Frequency '2484MHz'
+PRP Max_Supply_Voltage '3.6V'
+PRP Min_Supply_Voltage '3V'
+PRP Mouser_Description 'Wi-Fi/BT BLE Module ESP32-D0WD, SPI Flash, UART, P'
+PRP Nominal_Supply_Current '500mA'
+PRP Number_Of_Adc_Channels '16'
+PRP Number_Of_Gpio '32'
+PRP Octopart 'https://octopart.com/esp32-wroom-32d-espressif+systems-91040050'
+PRP Package 'ESP32-WROOM-32D'
+PRP RoHS 'TRUE'
+PRP Sensitivity '-98dBm'
+PRP Temperature '-40°C to +85°C'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-40°C'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5),(6:6),(7:7),(8:8),(9:9),(10:10),(11:11),(12:12),(13:13),(14:14),(15:15),(16:16),(17:17),(18:18),(19:19),(20:20),(21:21),(22:22),(23:23),(24:24),(25:25),(26:26),(27:27),(28:28),(29:29),(30:30),(31:31),(32:32),(33:33),(34:34),(35:35),(36:36),(37:37),(38:38),(39:39)'
+TOP 0 30.5000152 45.0000116 0 N 37 50 1
+TOP 1 30.5000152 43.7300116 0 N 43 17 2
+TOP 2 30.5000152 42.4600116 0 N 38 4 3
+TOP 3 30.5000152 41.1900116 0 N 0 61 4
+TOP 4 30.5000152 39.9200116 0 N 0 60 5
+TOP 5 30.5000152 38.6500116 0 N 0 59 6
+TOP 6 30.5000152 37.3800116 0 N 0 58 7
+TOP 7 30.5000152 36.1100116 0 N 0 57 8
+TOP 8 30.5000152 34.8400116 0 N 0 56 9
+TOP 9 30.5000152 33.5700116 0 N 0 55 10
+TOP 10 30.5000152 32.3000116 0 N 0 54 11
+TOP 11 30.5000152 31.0300116 0 N 0 53 12
+TOP 12 30.5000152 29.7600116 0 N 31 0 13
+TOP 13 30.5000152 28.4900116 0 N 33 0 14
+TOP 14 33.2850236 27.4900136 0 N 37 52 15
+TOP 15 34.5550236 27.4900136 0 N 32 0 16
+TOP 16 35.8250236 27.4900136 0 N 0 50 17
+TOP 17 37.0950236 27.4900136 0 N 0 49 18
+TOP 18 38.3650236 27.4900136 0 N 0 48 19
+TOP 19 39.6350236 27.4900136 0 N 0 47 20
+TOP 20 40.9050236 27.4900136 0 N 1 0 21
+TOP 21 42.1750236 27.4900136 0 N 2 0 22
+TOP 22 43.4450236 27.4900136 0 N 30 0 23
+TOP 23 44.7150236 27.4900136 0 N 8 1 24
+TOP 24 47.4999812 28.4900116 0 N 9 1 25
+TOP 25 47.4999812 29.7600116 0 N 36 1 26
+TOP 26 47.4999812 31.0300116 0 N 29 0 27
+TOP 27 47.4999812 32.3000116 0 N 28 0 28
+TOP 28 47.4999812 33.5700116 0 N 35 1 29
+TOP 29 47.4999812 34.8400116 0 N 7 1 30
+TOP 30 47.4999812 36.1100116 0 N 26 1 31
+TOP 31 47.4999812 37.3800116 0 N 0 52 32
+TOP 32 47.4999812 38.6500116 0 N 27 1 33
+TOP 33 47.4999812 39.9200116 0 N 11 1 34
+TOP 34 47.4999812 41.1900116 0 N 6 1 35
+TOP 35 47.4999812 42.4600116 0 N 40 1 36
+TOP 36 47.4999812 43.7300116 0 N 0 51 37
+TOP 37 47.4999812 45.0000116 0 N 37 51 38
+TOP 38 36.1649772 39.3349988 0 N 37 53 39
+TOP 39 38.0000256 39.3349988 0 N 37 54 39
+TOP 40 39.8350232 39.3349988 0 N 37 55 39
+TOP 41 36.1649772 37.5000012 0 N 37 56 39
+TOP 42 38.0000256 37.5000012 0 N 37 57 39
+TOP 43 39.8350232 37.5000012 0 N 37 58 39
+TOP 44 36.1649772 35.6650036 0 N 37 59 39
+TOP 45 38.0000256 35.6650036 0 N 37 60 39
+TOP 46 39.8350232 35.6650036 0 N 37 61 39
+#
+# CMP 26
+CMP 22 66.00000008 40.50000028 270 N U2 RFM95W-868S2 ;0=1,1=0.0000
+PRP Case/Package 'SMD/SMT'
+PRP Current_-_Receiving '12.1mA'
+PRP Current_-_Transmitting '120mA'
+PRP Data_Rate '300Kbps'
+PRP Frequency '868MHz'
+PRP Interface 'SPI'
+PRP Max_Operating_Temperature '70°C'
+PRP Min_Operating_Temperature '-20°C'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Bulk'
+PRP Sensitivity '-123dBm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5),(6:6),(7:7),(8:8),(9:9),(10:10),(11:11),(12:12),(13:13),(14:14),(15:15),(16:16)'
+TOP 0 59.0000344 32.749998 270 N 37 62 1
+TOP 1 61.0000304 32.749998 270 N 32 1 2
+TOP 2 63.0000264 32.749998 270 N 31 1 3
+TOP 3 65.0000224 32.749998 270 N 28 1 4
+TOP 4 67.0000184 32.749998 270 N 30 1 5
+TOP 5 69.0000144 32.749998 270 N 29 1 6
+TOP 6 71.0000104 32.749998 270 N 0 66 7
+TOP 7 73.0000064 32.749998 270 N 37 63 8
+TOP 8 73.0000064 48.2499924 270 N 21 1 9
+TOP 9 71.0000104 48.2499924 270 N 37 64 10
+TOP 10 69.0000144 48.2499924 270 N 0 65 11
+TOP 11 67.0000184 48.2499924 270 N 0 64 12
+TOP 12 65.0000224 48.2499924 270 N 43 18 13
+TOP 13 63.0000264 48.2499924 270 N 33 1 14
+TOP 14 61.0000304 48.2499924 270 N 0 63 15
+TOP 15 59.0000344 48.2499924 270 N 0 62 16
+#
+# CMP 27
+CMP 25 3.99999962 60.99999992 180 N L_V1 2.2uH ;0=1,1=0.0000
+PRP Case/Package 'SMD/SMT'
+PRP Core_Material 'Composite'
+PRP DC_Resistance_(DCR) '38.7mR'
+PRP Height '2.1mm'
+PRP Inductance '2.2uH'
+PRP Inductance_Tolerance '20%'
+PRP Lead_Free 'Contains Lead'
+PRP Length '4.3mm'
+PRP Max_DC_Current '5.5A'
+PRP Max_Operating_Temperature '125°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1000'
+PRP Packaging 'Tape and Reel'
+PRP RMS_Current_(Irms) '5.5A'
+PRP RoHS_Compliant 'Yes'
+PRP Saturation_Current '5.6A'
+PRP Self_Resonant_Frequency '52MHz'
+PRP Series 'XAL4020'
+PRP Shielding 'Shielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100kHz'
+PRP Tolerance '20%'
+PRP Width '4.3mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 5.1850036 60.9999796 180 N 22 1 1
+TOP 1 2.8149804 60.9999796 180 N 43 11 2
+#
+# CMP 28
+CMP 21 53.0000083 21.1624799 270 N L_G1 27nH ;0=1,1=0.0000
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Core_Material 'Non-Magnetic'
+PRP Current '850mA'
+PRP Current_Rating '440mA'
+PRP DC_Current '440mA'
+PRP DC_Resistance_(DCR) '210mR'
+PRP Depth '1mm'
+PRP Height '0.8mm'
+PRP Height_-_Seated_(Max) '0.039inch'
+PRP Inductance '27nH'
+PRP Lead_Free 'Lead Free'
+PRP Length '1.6mm'
+PRP Max_DC_Current '440mA'
+PRP Max_Operating_Temperature '125°C'
+PRP Military_Standard 'Not'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '4000'
+PRP Packaging 'Tape and Reel'
+PRP Q_Factor '40'
+PRP Radiation_Hardening 'No'
+PRP Resistor_Type 'Wirewound'
+PRP Self_Resonant_Frequency '3.7GHz'
+PRP Series_Resistance '210mR'
+PRP Shielding 'Unshielded'
+PRP Termination 'SMD/SMT'
+PRP Test_Frequency '100MHz'
+PRP Tolerance '2%'
+PRP Weight '0.000106oz'
+PRP Width '0.031inch'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 52.9999956 20.4999844 270 N 23 0 1
+TOP 1 52.9999956 21.82495 270 N 25 1 2
+#
+# CMP 29
+CMP 0 56.52499998 71.87499976 180 N J4 1140084168 ;0=1,1=0.0000
+PRP Connector_Type 'Connector'
+PRP Contact_Material 'Copper Alloy'
+PRP Contact_Plating 'Gold'
+PRP Depth '11.45mm'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Receptacle'
+PRP Height '1.55mm'
+PRP Housing_Material 'Polymer'
+PRP Lead_Free 'Lead Free'
+PRP Length '15.6mm'
+PRP Mount 'Surface Mount'
+PRP Number_of_Contacts '8'
+PRP Number_of_Rows '1'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '7500'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '1.1mm'
+PRP Radiation_Hardening 'No'
+PRP Termination 'SMD/SMT'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5),(6:6),(7:7),(8:8),(9:9),(10:10),(11:11),(12:12),(13:13),(14:14)'
+TOP 0 53.325014 77.2249916 180 N 0 23 1
+TOP 1 54.4249864 77.2249916 180 N 7 0 2
+TOP 2 55.5250096 77.2249916 180 N 26 0 3
+TOP 3 56.624982 77.2249916 180 N 43 15 4
+TOP 4 57.7250052 77.2249916 180 N 40 0 5
+TOP 5 58.8249776 77.2249916 180 N 37 37 6
+TOP 6 59.9250008 77.2249916 180 N 27 0 7
+TOP 7 61.025024 77.2249916 180 N 0 24 8
+TOP 8 50.9500124 66.4250132 180 N 0 29 9
+TOP 9 62.1999772 68.0000164 180 N 0 30 10
+TOP 10 50.5500132 68.850002 180 N 0 28 11
+TOP 11 62.500002 69.499988 180 N 0 27 12
+TOP 12 62.2250216 77.1000236 180 N 0 26 13
+TOP 13 50.8749808 77.1000236 180 N 0 25 14
+#
+# CMP 30
+CMP 1 38.4050032 74.81499896 0 N J3 83611-9006 ;0=2,1=0.0000
+PRP Color 'Black'
+PRP Contact_Material 'Copper'
+PRP Contact_Plating 'Gold'
+PRP Current_Rating '1A'
+PRP Depth '7.82mm'
+PRP ELV 'Compliant'
+PRP Flammability_Rating 'UL94 V-0'
+PRP Gender 'Male'
+PRP Halogen_Free 'Low Halogen'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Steel'
+PRP Insulation_Resistance '5GR'
+PRP Lead_Free 'Lead Free'
+PRP Length '19.94mm'
+PRP Max_Operating_Temperature '125°C'
+PRP Max_Supply_Voltage '350V'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Through Hole'
+PRP Number_of_Circuits '9'
+PRP Number_of_Contacts '9'
+PRP Number_Of_Ports '1'
+PRP Number_of_Positions '9'
+PRP Number_of_Rows '2'
+PRP Number_of_Terminals/Pins '9'
+PRP Orientation 'Right Angle'
+PRP Package_Quantity '156'
+PRP Packaging 'Rail/Tube'
+PRP Pitch '1.27mm'
+PRP Plating 'Steel'
+PRP Radiation_Hardening 'No'
+PRP REACH_SVHC 'No SVHC'
+PRP Series 'Micro D'
+PRP Shell_Material 'Steel'
+PRP Shell_Size 'E'
+PRP Shielding 'Shielded'
+PRP Termination 'Solder'
+PRP Voltage_Rating '350V'
+PRP Voltage_Rating_(AC) '350V'
+PRP Width '16.89mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5),(6:6),(7:7),(8:8),(9:9),(10:10),(11:11)'
+TOP 0 35.8650032 67.4600124 0 N 0 22 1
+TOP 1 37.1350032 67.4600124 0 N 8 0 2
+TOP 2 38.4050032 67.4600124 0 N 9 0 3
+TOP 3 39.6750032 67.4600124 0 N 0 21 4
+TOP 4 40.9450032 67.4600124 0 N 0 20 5
+TOP 5 36.5000032 70.0000124 0 N 0 19 6
+TOP 6 37.7700032 70.0000124 0 N 0 18 7
+TOP 7 39.0400032 70.0000124 0 N 0 17 8
+TOP 8 40.3100032 70.0000124 0 N 0 16 9
+TOP 9 31.2300112 71.2700124 0 N 37 6 10
+TOP 10 45.5799952 71.2700124 0 N 37 7 11
+#
+# CMP 31
+CMP 28 11.00000086 74.99999986 180 N J1 JST_FEMALE_HEADER ;0=1,1=5.5000
+PRP Colour 'Black'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.jst.com/home2.html'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf'
+PRP Contact_Finish 'Lead'
+PRP Contact_Material 'Bronze'
+PRP Contact_Plating 'Tin'
+PRP Current_Rating '3 A'
+PRP DatasheetVersion 'Dec-12'
+PRP Height '8.13 mm'
+PRP Lead_Pitch '0.1 inch'
+PRP Length '101.19 mm'
+PRP Max_Operating_Temperature '105degC'
+PRP Min_Operating_Temperature '-65degC'
+PRP Mount 'Through Hole'
+PRP Package_Quantity '100'
+PRP PackageDescription 'Male Header, Pitch 2 mm, 1 x 2 Position, Height 5.5 mm'
+PRP PackageReference 'S2B-PH-SM4-TB(LF)(SN)-2'
+PRP Packaging 'Bulk'
+PRP Pins '40'
+PRP Radiation_Hardening 'No'
+PRP RoHSCompliant 'True'
+PRP Width '2.34 mm'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(MP1:MP1),(MP2:MP2)'
+TOP 0 11.999976 71.550022 180 N 42 2 1
+TOP 1 9.99998 71.550022 180 N 37 27 2
+TOP 2 14.349984 77.3000232 180 N 0 88 MP1
+TOP 3 7.6500228 77.3000232 180 N 0 89 MP2
+#
+# CMP 32
+CMP 32 66.50001686 15.4000073 0 N U3 NEO-M8N-0 ;0=1,1=2.6000
+PRP Datasheet_URL 'https://www.u-blox.com/sites/default/files/NEO-M8-FW3_DataSheet_%28UBX-15031086%29.pdf'
+PRP Datasheet_Version 'Rev. R03, 08/2016'
+PRP Manufacturer 'U-Blox'
+PRP Manufacturer_URL 'https://www.u-blox.com/en'
+PRP Mounting_Technology 'SurfaceMount'
+PRP Package_Description '24-Pin Surface Mount Device, Body 16 x 12.2 mm, Pitch 1.1 mm'
+PRP Package_Reference 'NEO-M8N-0'
+PRP Package_URL 'https://www.u-blox.com/sites/default/files/NEO-8Q-NEO-M8-FW3_HardwareIntegrationManual_%28UBX-15029985%29.pdf'
+PRP RoHSCompliant 'False'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2),(3:3),(4:4),(5:5),(6:6),(7:7),(8:8),(9:9),(10:10),(11:11),(12:12),(13:13),(14:14),(15:15),(16:16),(17:17),(18:18),(19:19),(20:20),(21:21),(22:22),(23:23),(24:24)'
+TOP 0 60.500006 22.400006 90 N 37 38 1
+TOP 1 60.500006 21.3000336 90 N 37 39 2
+TOP 2 60.500006 20.2000104 90 N 0 100 3
+TOP 3 60.500006 19.100038 90 N 37 40 4
+TOP 4 60.500006 18.0000148 90 N 0 99 5
+TOP 5 60.500006 16.9000424 90 N 0 98 6
+TOP 6 60.500006 15.8000192 90 N 0 97 7
+TOP 7 60.500006 12.8000252 90 N 37 41 8
+TOP 8 60.500006 11.700002 90 N 24 1 9
+TOP 9 60.500006 10.6000296 90 N 37 42 10
+TOP 10 60.500006 9.5000064 90 N 23 1 11
+TOP 11 60.500006 8.400034 90 N 37 43 12
+TOP 12 72.499982 8.400034 90 N 37 45 13
+TOP 13 72.499982 9.5000064 90 N 0 90 14
+TOP 14 72.499982 10.6000296 90 N 0 91 15
+TOP 15 72.499982 11.700002 90 N 0 92 16
+TOP 16 72.499982 12.8000252 90 N 0 93 17
+TOP 17 72.499982 15.8000192 90 N 0 94 18
+TOP 18 72.499982 16.9000424 90 N 0 95 19
+TOP 19 72.499982 18.0000148 90 N 35 0 20
+TOP 20 72.499982 19.100038 90 N 36 0 21
+TOP 21 72.499982 20.2000104 90 N 0 96 22
+TOP 22 72.499982 21.3000336 90 N 43 16 23
+TOP 23 72.499982 22.400006 90 N 37 44 24
+#
+# CMP 33
+CMP 23 19.0000001 49.99999906 0 N D3 SMBJ6.0A ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Breakdown_Voltage '6.67V'
+PRP Category 'Diode'
+PRP Clamping_Voltage '10.3V'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'TVS Diodes'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'TVS DIODE 6V 10.3V DO214AA'
+PRP Direction 'Unidirectional'
+PRP Height '2.61mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Littelfuse Inc'
+PRP Manufacturer_Part_Number 'SMBJ6.0A'
+PRP Max_Junction_Temp '+150°C'
+PRP Mouser_Description 'In a Pack of 10, Littelfuse SMBJ6.0A, Uni-Directional TVS Diode, 600W, 2-Pin DO-214AA'
+PRP Number_Of_Channels '1'
+PRP Octopart 'https://octopart.com/smbj6.0a-littelfuse-66100'
+PRP Package 'SMBJ'
+PRP Peak_Pulse_Current '58.3A'
+PRP Peak_Pulse_Power '600W'
+PRP Reverse_Standoff_Voltage '6V'
+PRP RoHS 'TRUE'
+PRP Temperature '-65°C to +150°C'
+PRP Temperature_Range_High '+150°C'
+PRP Temperature_Range_Low '-65°C'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 16.5500304 50.0000016 0 N 37 30 1
+TOP 1 21.450046 50.0000016 0 N 4 2 2
+#
+# CMP 34
+CMP 23 6.44999472 50.00001684 180 N D2 SMBJ6.0A ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Breakdown_Voltage '6.67V'
+PRP Category 'Diode'
+PRP Clamping_Voltage '10.3V'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'TVS Diodes'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'TVS DIODE 6V 10.3V DO214AA'
+PRP Direction 'Unidirectional'
+PRP Height '2.61mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Littelfuse Inc'
+PRP Manufacturer_Part_Number 'SMBJ6.0A'
+PRP Max_Junction_Temp '+150°C'
+PRP Mouser_Description 'In a Pack of 10, Littelfuse SMBJ6.0A, Uni-Directional TVS Diode, 600W, 2-Pin DO-214AA'
+PRP Number_Of_Channels '1'
+PRP Octopart 'https://octopart.com/smbj6.0a-littelfuse-66100'
+PRP Package 'SMBJ'
+PRP Peak_Pulse_Current '58.3A'
+PRP Peak_Pulse_Power '600W'
+PRP Reverse_Standoff_Voltage '6V'
+PRP RoHS 'TRUE'
+PRP Temperature '-65°C to +150°C'
+PRP Temperature_Range_High '+150°C'
+PRP Temperature_Range_Low '-65°C'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 8.9000076 50.0000016 180 N 37 17 1
+TOP 1 3.999992 50.0000016 180 N 3 1 2
+#
+# CMP 35
+CMP 23 6.4999997 42.49999882 180 N D1 SMBJ6.0A ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Breakdown_Voltage '6.67V'
+PRP Category 'Diode'
+PRP Clamping_Voltage '10.3V'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf'
+PRP Device_Class_L1 'Circuit Protection'
+PRP Device_Class_L2 'TVS Diodes'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'TVS DIODE 6V 10.3V DO214AA'
+PRP Direction 'Unidirectional'
+PRP Height '2.61mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Littelfuse Inc'
+PRP Manufacturer_Part_Number 'SMBJ6.0A'
+PRP Max_Junction_Temp '+150°C'
+PRP Mouser_Description 'In a Pack of 10, Littelfuse SMBJ6.0A, Uni-Directional TVS Diode, 600W, 2-Pin DO-214AA'
+PRP Number_Of_Channels '1'
+PRP Octopart 'https://octopart.com/smbj6.0a-littelfuse-66100'
+PRP Package 'SMBJ'
+PRP Peak_Pulse_Current '58.3A'
+PRP Peak_Pulse_Power '600W'
+PRP Reverse_Standoff_Voltage '6V'
+PRP RoHS 'TRUE'
+PRP Temperature '-65°C to +150°C'
+PRP Temperature_Range_High '+150°C'
+PRP Temperature_Range_Low '-65°C'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 8.9499948 42.500042 180 N 37 29 1
+TOP 1 4.0499792 42.500042 180 N 41 1 2
+#
+# CMP 36
+CMP 20 2.50000008 66.9749994 270 N C_V4 10uF ;0=1,1=0.0000
+PRP Capacitance '10uF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Features 'Soft Termination'
+PRP Length '0.039inch'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Cut Tape'
+PRP RoHS_Compliant 'Yes'
+PRP Thickness '0.028inch'
+PRP Tolerance '20%'
+PRP Voltage_Rating '6.3V'
+PRP Width '0.02inch'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 2.5000204 66.499994 270 N 43 9 1
+TOP 1 2.5000204 67.4500048 270 N 37 25 2
+#
+# CMP 37
+CMP 20 7.50000024 67.00000062 270 N C_V3 10uF ;0=1,1=0.0000
+PRP Capacitance '10uF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Features 'Soft Termination'
+PRP Length '0.039inch'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Cut Tape'
+PRP RoHS_Compliant 'Yes'
+PRP Thickness '0.028inch'
+PRP Tolerance '20%'
+PRP Voltage_Rating '6.3V'
+PRP Width '0.02inch'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 7.5000104 66.5249876 270 N 43 8 1
+TOP 1 7.5000104 67.4749984 270 N 37 24 2
+#
+# CMP 38
+CMP 20 5.00000016 67.00000062 270 N C_V2 10uF ;0=1,1=0.0000
+PRP Capacitance '10uF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Features 'Soft Termination'
+PRP Length '0.039inch'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Cut Tape'
+PRP RoHS_Compliant 'Yes'
+PRP Thickness '0.028inch'
+PRP Tolerance '20%'
+PRP Voltage_Rating '6.3V'
+PRP Width '0.02inch'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 4.99999 66.5249876 270 N 43 10 1
+TOP 1 4.99999 67.4749984 270 N 37 26 2
+#
+# CMP 39
+CMP 7 11.49999986 66.49999908 180 N C_V1 4.7uF ;0=1,1=0.0000
+PRP Capacitance '4.7uF'
+PRP Case_Code_(Imperial) '0402'
+PRP Case_Code_(Metric) '1005'
+PRP Case/Package '0402'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.039inch'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '10000'
+PRP Packaging 'Cut Tape'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'C'
+PRP Thickness '0.022inch'
+PRP Tolerance '10%'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Width '0.02inch'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 11.9000016 66.499994 180 N 42 3 1
+TOP 1 11.1000032 66.499994 180 N 37 28 2
+#
+# CMP 40
+CMP 8 7.00000124 37.5000012 0 N C_U1 100nF ;0=1,1=0.0000
+PRP Automotive 'Yes'
+PRP Automotive_Grade 'Grade 0'
+PRP Capacitance '0.10 µF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 200V 10% X7R 1206'
+PRP Height '0.88mm'
+PRP Ipc_Land_Pattern_Name 'CAPC320160X78'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C1206C104K2RACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 200volts 0.1uF X7R 10%'
+PRP Octopart 'https://octopart.com/c1206c104k2ractu-kemet-9138344'
+PRP Package 'C1206C-EB'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +150°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '15%'
+PRP Temperature_Range_High '+150°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '0.10 µF'
+PRP Voltage_Rating '200 V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 5.5999888 37.5000012 0 N 41 3 1
+TOP 1 8.3999832 37.5000012 0 N 37 35 2
+#
+# CMP 41
+CMP 4 36.50001082 19.40004248 270 N C_SW1 0.1uF ;0=1,1=0.0000
+PRP Automotive 'Yes'
+PRP Automotive_Grade 'Grade 1'
+PRP Capacitance '0.10 µF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://api.kemet.com/component-edge/download/datasheet/C0603C100J5GACAUTO.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 50V X7R 0603'
+PRP Height '0.87mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RACTU'
+PRP Material 'Ceramic'
+PRP Octopart 'https://octopart.com/c0603c104k5ractu-kemet-139244'
+PRP Package 'C0603C-CF'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +125°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '0.10 µF'
+PRP Voltage_Rating '50 V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 36.5000032 18.8000132 270 N 34 2 1
+TOP 1 36.5000032 20.0000108 270 N 37 66 2
+#
+# CMP 42
+CMP 4 29.00000042 11.00000086 270 N C_S2 0.1uF ;0=1,1=0.0000
+PRP Automotive 'Yes'
+PRP Automotive_Grade 'Grade 1'
+PRP Capacitance '0.10 µF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://api.kemet.com/component-edge/download/datasheet/C0603C100J5GACAUTO.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 50V X7R 0603'
+PRP Height '0.87mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RACTU'
+PRP Material 'Ceramic'
+PRP Octopart 'https://octopart.com/c0603c104k5ractu-kemet-139244'
+PRP Package 'C0603C-CF'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +125°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '0.10 µF'
+PRP Voltage_Rating '50 V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 28.9999928 10.40003 270 N 43 5 1
+TOP 1 28.9999928 11.6000276 270 N 37 20 2
+#
+# CMP 43
+CMP 5 25.00000588 10.89999598 270 N C_S1 4.7uF ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Capacitance '4.7uF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 4.7UF 6.3V X5R 0603'
+PRP Height '0.9mm'
+PRP Ipc_Land_Pattern_Name 'CAPC16080X80'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Kemet'
+PRP Manufacturer_Part_Number 'C0603C475K9PACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3volts 4.7uF X5R 10%'
+PRP Octopart 'https://octopart.com/c0603c475k9pactu-kemet-104242'
+PRP Package 'C0603-CG'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +85°C'
+PRP Temperature_Characteristic 'X5R'
+PRP Temperature_Coefficient '15%'
+PRP Temperature_Range_High '+85°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '10%'
+PRP Value '4.7uF'
+PRP Voltage_Rating '6.3V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 25.0000008 10.3000048 270 N 43 4 1
+TOP 1 25.0000008 11.5000024 270 N 37 19 2
+#
+# CMP 44
+CMP 4 56.00000992 60.89999504 270 N C_M2 O.1uF ;0=1,1=0.0000
+PRP Automotive 'Yes'
+PRP Automotive_Grade 'Grade 1'
+PRP Capacitance '0.10 µF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://api.kemet.com/component-edge/download/datasheet/C0603C100J5GACAUTO.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 50V X7R 0603'
+PRP Height '0.87mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RACTU'
+PRP Material 'Ceramic'
+PRP Octopart 'https://octopart.com/c0603c104k5ractu-kemet-139244'
+PRP Package 'C0603C-CF'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +125°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '0.10 µF'
+PRP Voltage_Rating '50 V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 55.9999896 60.3000064 270 N 43 2 1
+TOP 1 55.9999896 61.500004 270 N 37 14 2
+#
+# CMP 45
+CMP 9 51.50000114 60.50000092 270 N C_M1 22uF ;0=1,1=0.0000
+PRP Capacitance '22uF'
+PRP Case_Code_(Imperial) '0805'
+PRP Case_Code_(Metric) '2012'
+PRP Case/Package '0805'
+PRP Construction 'Flat'
+PRP Depth '1.25mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '1.25mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '2mm'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '2'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistor_Type 'Ceramic'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'C'
+PRP Termination 'SMD/SMT'
+PRP Thickness '0.057inch'
+PRP Tolerance '20%'
+PRP Voltage_Rating '10V'
+PRP Voltage_Rating_(DC) '10V'
+PRP Weight '0.000194oz'
+PRP Width '0.049inch'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 51.500024 59.5749888 270 N 43 3 1
+TOP 1 51.500024 61.4250232 270 N 37 15 2
+#
+# CMP 46
+CMP 6 53.0000083 15.24999236 270 N C__G1 27kPF ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Capacitance '27,000 pF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.027UF 50V X7R 0805'
+PRP Height '0.88mm'
+PRP Ipc_Land_Pattern_Name 'CAPC200125X78'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0805C273K5RACTU'
+PRP Material 'Ceramic'
+PRP Mouser_Description 'Multilayer Ceramic Capacitors MLCC - SMD/SMT 50volts 27000pF X7R 10%'
+PRP Octopart 'https://octopart.com/c0805c273k5ractu-kemet-131415'
+PRP Package 'C0805C-DN'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +125°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '27,000 pF'
+PRP Voltage_Rating '50 V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 52.9999956 14.4999964 270 N 25 0 1
+TOP 1 52.9999956 16.0000188 270 N 37 13 2
+#
+# CMP 47
+CMP 4 43.49999936 19.4999991 270 N C2_SW2 0.1uF ;0=1,1=0.0000
+PRP Automotive 'Yes'
+PRP Automotive_Grade 'Grade 1'
+PRP Capacitance '0.10 µF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://api.kemet.com/component-edge/download/datasheet/C0603C100J5GACAUTO.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 50V X7R 0603'
+PRP Height '0.87mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RACTU'
+PRP Material 'Ceramic'
+PRP Octopart 'https://octopart.com/c0603c104k5ractu-kemet-139244'
+PRP Package 'C0603C-CF'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +125°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '0.10 µF'
+PRP Voltage_Rating '50 V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 43.4999892 18.8999876 270 N 38 5 1
+TOP 1 43.4999892 20.0999852 270 N 37 67 2
+#
+# CMP 48
+CMP 4 25.0000262 17.59999274 270 N C1_SW2 0.1uF ;0=1,1=0.0000
+PRP Automotive 'Yes'
+PRP Automotive_Grade 'Grade 1'
+PRP Capacitance '0.10 µF'
+PRP Category 'Cap'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://api.kemet.com/component-edge/download/datasheet/C0603C100J5GACAUTO.pdf'
+PRP Device_Class_L1 'Passive Components'
+PRP Device_Class_L2 'Capacitors'
+PRP Device_Class_L3 'Ceramic Capacitors'
+PRP Digikey_Description 'CAP CER 0.1UF 50V X7R 0603'
+PRP Height '0.87mm'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C104K5RACTU'
+PRP Material 'Ceramic'
+PRP Octopart 'https://octopart.com/c0603c104k5ractu-kemet-139244'
+PRP Package 'C0603C-CF'
+PRP RoHS 'TRUE'
+PRP Temperature '-55°C to +125°C'
+PRP Temperature_Characteristic 'X7R'
+PRP Temperature_Coefficient '30ppm/°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-55°C'
+PRP Tolerance '0.1'
+PRP Value '0.10 µF'
+PRP Voltage_Rating '50 V'
+PRP Simulation_ModelName ''
+PRP Simulation_ModelText ''
+PRP Simulation_PortMap '(1:1),(2:2)'
+TOP 0 25.0000008 17.0000168 270 N 38 1 1
+TOP 1 25.0000008 18.2000144 270 N 37 36 2
+#
